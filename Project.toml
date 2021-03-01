@@ -2,3 +2,6 @@ name = "Julia_2D_elastic_public"
 uuid = "de66bd90-8e3b-43ed-90eb-b57d5e62e317"
 authors = ["Yi Zhang <zhang9@outlook.de>"]
 version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
